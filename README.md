@@ -25,3 +25,7 @@ https://www.eera.fi/en/2016/12/14/6-steps-to-utilizing-robotic-process-automatio
 * sequence:
 
 * If control: condition , then, else
+
+## Automate repetitive tasks on Mac
+
+https://www.howtogeek.com/209225/automator-101-how-to-automate-repetitive-tasks-on-your-mac/
