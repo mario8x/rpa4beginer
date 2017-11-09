@@ -60,7 +60,9 @@ https://automatetheboringstuff.com/appendixb/
 ## Tools
 
 ### Windows
+
 http://www.makeuseof.com/tag/automate-repetitive-tasks/
+
 * autoit
 http://www.techrepublic.com/blog/five-apps/five-apps-for-task-automation/
 
