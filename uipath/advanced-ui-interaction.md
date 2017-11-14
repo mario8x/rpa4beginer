@@ -9,7 +9,9 @@ https://studio.uipath.com/v2016.2/docs/about-ui-elements
 
 Technologies
 * fulltext
+
 * native
+
 * OCR
 
 ## Data scrapping

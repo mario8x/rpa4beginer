@@ -17,11 +17,10 @@
 Finally: make the strategic and operative decisions regarding the role of RPA in your organization – and realize them.
 https://www.eera.fi/en/2016/12/14/6-steps-to-utilizing-robotic-process-automation/
 
-## RPA Developer - Foundation Training
+## Blueprism
 
-### controls:
-* flowchart:
+https://www.blueprism.com/
 
-* sequence:
+## t-plan
 
-* If control: condition , then, else
+http://www.t-plan.com/rpa-architecture/
